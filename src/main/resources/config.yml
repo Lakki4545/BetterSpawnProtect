@@ -1,0 +1,28 @@
+#========================MAIN SETTINGS=================
+
+spawn-x: 0
+spawn-Y: 80
+spawn-z: 0
+
+#=======================others settings================
+
+
+playerAttack-enable: true
+playerAttack-radius: 500
+
+
+
+explode-enable: true
+explode-radius: 500
+
+
+
+ignite-enable: true
+ignite-radius: 500
+
+
+playerCanBreakBlock-enable: true
+playerCanBreakBlock-radius: 500
+
+playerCanPlaceBlock-enable: true
+playerCanPlaceBlock-radius: 500
